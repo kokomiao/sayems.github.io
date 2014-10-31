@@ -1,0 +1,10 @@
+com.sayem.appium.pagefactory.framework.actions
+com.sayem.appium.pagefactory.framework.browser
+com.sayem.appium.pagefactory.framework.browser.mobile
+com.sayem.appium.pagefactory.framework.browser.web
+com.sayem.appium.pagefactory.framework.config
+com.sayem.appium.pagefactory.framework.exception
+com.sayem.appium.pagefactory.framework.models
+com.sayem.appium.pagefactory.framework.pages
+com.sayem.appium.pagefactory.framework.tests
+com.sayem.appium.pagefactory.framework.webservice
